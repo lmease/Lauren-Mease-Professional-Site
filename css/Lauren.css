@@ -1,0 +1,155 @@
+/***************** TAG SELECTORS ******************/
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #A278b5;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Lobster', cursive;
+  color: #0A1931;
+}
+
+h2 {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 2.5rem;
+  color: #0A1931;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+  color: #0A1931;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #798777;
+  border-width: 5px;
+  width: 10%;
+  margin: 50px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  color: #0A1931;
+  font-family: 'Merriweather Sans', sans-serif;
+  margin: 10px 20px;
+  text-decoration:none;
+}
+a:hover {
+  color: #eaf6f6;
+}
+/***************** Class SELECTORS ******************/
+.top-container {
+  background-color: #A278b5;
+  position: relative;
+  padding-top: 100px;
+  line-height: normal;
+}
+
+.middle-container {
+  margin: 75px 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.bottom-container {
+  background-color: #A278b5;
+  padding-top: 100px;
+  position: relative;
+}
+
+.dev {
+  text-decoration: underline;
+}
+
+.Intro {
+  width: 50%;
+  margin: auto;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.Lauren-profile {
+  width: 25%;
+  padding-top: 40px;
+}
+
+.sharepoint {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.pink-computer {
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
+
+.Dress-Models {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.Contact-Message {
+  width: 45%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  background: #898B8A;
+  background-image: -webkit-linear-gradient(top, #898B8A, #2c3333);
+  background-image: -moz-linear-gradient(top, #898B8A, #2c3333);
+  background-image: -ms-linear-gradient(top, #898B8A, #2c3333);
+  background-image: -o-linear-gradient(top, #898B8A, #2c3333);
+  background-image: linear-gradient(to bottom, #898B8A, #2c3333);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 15px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #d432e3;
+  background-image: -webkit-linear-gradient(top, #d432e3, #532bc2);
+  background-image: -moz-linear-gradient(top, #d432e3, #532bc2);
+  background-image: -ms-linear-gradient(top, #d432e3, #532bc2);
+  background-image: -o-linear-gradient(top, #d432e3, #532bc2);
+  background-image: linear-gradient(to bottom, #d432e3, #532bc2);
+  text-decoration: none;
+}
+
+.copywrite {
+  color: #eaf6f6;
+  font-size: .75rem;
+  padding: 20px 0;
+}
+
+/***************** ID SELECTORS ******************/
